@@ -28,7 +28,7 @@ class SafeRouteColors {
   static const Color lightText = Color(0xFF0D1420);
   static const Color lightMuted = Color(0xFF516072);
   static const Color lightStroke = Color(0xFFDAE1EE);
-  static const Color lightPrimary = Color(0xFF3C5CFF);
+  static const Color lightPrimary = Color(0xFF00897B);
   static const Color lightOnPrimary = Color(0xFFFFFFFF);
   static const Color lightSecondary = Color(0xFF00BFA6);
   static const Color lightError = Color(0xFFB42318);
@@ -40,7 +40,7 @@ class SafeRouteColors {
   static const Color darkText = Color(0xFFEAF0FF);
   static const Color darkMuted = Color(0xFFAAB7CC);
   static const Color darkStroke = Color(0xFF1E2A42);
-  static const Color darkPrimary = Color(0xFF7A95FF);
+  static const Color darkPrimary = Color(0xFF26A69A);
   static const Color darkOnPrimary = Color(0xFF0A1020);
   static const Color darkSecondary = Color(0xFF2AF2D6);
   static const Color darkError = Color(0xFFFF6B5E);
